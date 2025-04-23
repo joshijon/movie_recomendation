@@ -1,7 +1,6 @@
 # Movie Recommendation System
 ## Overview
 This project implements a content-based movie recommendation system using Python. It recommends movies based on their similarity to a user-selected movie, leveraging text features such as movie overviews and genres. The system uses the TMDB Top 10K Movies dataset and employs natural language processing techniques to generate recommendations.
-Features
 
 ### Dataset: 
 Utilizes the TMDB Top 10K Movies dataset, containing movie details like title, genre, and overview.
